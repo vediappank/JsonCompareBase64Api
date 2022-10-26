@@ -49,6 +49,7 @@ Provide a endpoint for diff comparison between them.
 Get: http://localhost:10872/Compare/1/Difference
 
 The results provide the following info in JSON format:
+
 Jsons are equal
 
 Jsons are same size
@@ -68,9 +69,12 @@ http://localhost:10872/Compare/1/Difference
 
 6.Techonologies
 ========================
-Aspnet Core Api 3.1,
+Aspnet Core Api 3.1
+
 WebApi
+
 MemoryCache
+
 Swagger for documentation
 
 7.Suggestion to improve
