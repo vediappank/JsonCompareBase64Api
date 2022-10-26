@@ -67,7 +67,7 @@ http://localhost:10872/Compare/1/Difference
   "message":"The data is the same",
 }
 
-6.Techonologies
+6.Technologies
 ========================
 Aspnet Core Api 3.1
 
