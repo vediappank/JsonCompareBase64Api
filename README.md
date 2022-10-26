@@ -50,6 +50,7 @@ Get: http://localhost:10872/Compare/1/Difference
 
 The results provide the following info in JSON format:
 Jsons are equal
+
 Jsons are same size
 Jsons are different size
 Jsons are same size but with differences
@@ -73,6 +74,7 @@ Swagger for documentation
 7.Suggestion to improve
 ==============================
 Change InMemory database for a relational or MS SQL Server database
+
 Put a cache in the Api layer
 Distribute the application in containers Docker
 Use an Api Gateway or create an Oauth server for Authentication and Authentication
