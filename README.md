@@ -22,7 +22,7 @@ http://localhost:10872/Compare/1/left
 }
 
 [Result] 201
-
+=====================================================================
 {
   "message":"ok"
 }
@@ -58,6 +58,7 @@ Jsons are same size but with differences
 http://localhost:10872/Compare/1/Difference
 
 [Result] 200
+=====================================================================
 {
   "message":"The data is the same",
 }
