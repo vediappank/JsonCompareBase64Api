@@ -14,8 +14,9 @@ http://localhost:10872/swagger/index.html
 
 4.1st End Point for left post method
 =====================================================================
-[POST]http://localhost:10872/Compare/1/left
-[Payload]
+[POST]
+http://localhost:10872/Compare/1/left
+
 {
   "data": "YXNkZmFzZGZhc2RmYXNkZmFzZGY="
 }
@@ -28,8 +29,9 @@ http://localhost:10872/swagger/index.html
 
 5.2nd End Point for right post method
 =====================================================================
-[POST] http://localhost:10872/Compare/1/right
-[Payload]
+[POST] 
+http://localhost:10872/Compare/1/right
+
 {
   "data": "YXNkZmFzZGZhc2RmYXNkZmFzZGY="
 }
@@ -52,7 +54,9 @@ Jsons are same size
 Jsons are different size
 Jsons are same size but with differences
 
-[GET] http://localhost:10872/Compare/1/Difference
+[GET] 
+http://localhost:10872/Compare/1/Difference
+
 [Result] 200
 {
   "message":"The data is the same",
